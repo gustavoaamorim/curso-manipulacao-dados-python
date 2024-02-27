@@ -3,3 +3,4 @@ etl-de-arquivos/excel/GBQ.json
 etl-de-arquivos/json/GBQ.json
 etl-de-arquivos/txt/GBQ.json
 etl-mysql/GBQ.json
+etl-postgresql/GBQ.json
